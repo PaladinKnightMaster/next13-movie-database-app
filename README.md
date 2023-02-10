@@ -1,7 +1,7 @@
 # NextJS 13 SSR and The Movie Database API
 
 
-Link to the App: [Link](https://google.com/)
+Link to the App: [Link](https://next13-movie-database-app.vercel.app/)
 
 ## Summary
 
