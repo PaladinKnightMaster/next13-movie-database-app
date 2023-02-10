@@ -7,7 +7,7 @@ Link to the App: [Link](https://google.com/)
 
 This NextJS13 project displays hollywoods' the most popular movies. It was made with NextJS 13 to include Server Side Rendering (SSR), and if you go to the Movie detail page, you'll find a function called generateStaticParams() which allows NextJS to pre-render the page on each request using data returned by this function.
 
-![star-wars-api-screenshot](https://user-images.githubusercontent.com/11094871/215881996-ffd858b9-62c2-4769-848e-9b08162d99c5.png)
+![movie-database-next-app](https://user-images.githubusercontent.com/11094871/218000537-8b56dfcc-f7df-4369-be33-9c21b4003fdd.png)
 
 
 ### Tech Used
